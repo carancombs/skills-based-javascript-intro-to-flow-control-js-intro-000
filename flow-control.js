@@ -2,7 +2,7 @@ function basicTeenager(age) {
 
 }
 
-function teenager(age) {'You are a teenager!'
+function teenager(age) {
 
 }
 
